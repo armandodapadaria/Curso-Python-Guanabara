@@ -1,0 +1,5 @@
+a = input('Digite algo: ')
+print('o tipo primitivo é: ', type(a))
+print('É numérico?', a.isnumeric())
+print('É alfabético?', a.isalpha())
+print('É alfanumérico?', a.isalnum())
