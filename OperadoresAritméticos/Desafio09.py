@@ -1,0 +1,2 @@
+n = int(input('Digite um número para ver sua tabuada: '))
+print(f'A tabuada de {n} é: \n{n} X {n*1} \n{n} X {n*2} \n{n} X {n*3} \n{n} X {n*4} \n{n} X {n*5} \n{n} X {n*6} \n{n} X {n*7} \n{n} X {n*8} \n{n} X {n*9} \n{n} X {n*10} ')
